@@ -9,4 +9,5 @@ The differents components used are:
 - The IR receiver: TSOP31240
 - Some NAND Gates for modulation
 - An amplifier 2N2222
+- Some additional resistors and capacitors
 
