@@ -1,7 +1,7 @@
 ; -----------------------------
 ; -- Fichier principal du PT --
 ; -----------------------------
-; -- Maonon commun           --
+; -- Manon commun            --
 ; -- Samuel Thomas           --
 ; -- Alexandre Brand         --
 ; -- Loïc Dalloz             --
