@@ -1,5 +1,6 @@
 ## Implementation of an IR transmission between two computers
 
+![Circuit design](http://bp1.blogger.com/_Se0VANaI9uM/R1QHMxSkrXI/AAAAAAAAAFk/VgKErYJKp5s/s1600-R/tempearure+controller.jpg "Electronic circuit design")
 Purpose: the main objective of this project is to implement an IR transmission between two computers using a PIC16F877A microcontroller.
 
 The differents components used are:
